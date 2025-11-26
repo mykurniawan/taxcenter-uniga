@@ -4,6 +4,8 @@ kuning #f8bb18
 merah #ec3537
 
 dirrect wa [comingsoon]
+    wheres the number
+    how about tawk.io? still use it or nah?
 
 comming soon!
 <div
@@ -23,8 +25,8 @@ comming soon!
         <div style="width:60%;height:100%;background:#f8bb18;"></div>
 
     </div>
-<a href="https://taxcenter-uniga.blogspot.com/" class="button white"
-   style="display:inline-block;
+        <a href="https://taxcenter-uniga.blogspot.com/" class="button white"
+          style="display:inline-block;
           padding:12px 24px;
           font-size:16px;
           font-weight:bold;
@@ -36,8 +38,8 @@ comming soon!
           text-align:center;
           margin:10px auto;
           box-sizing:border-box;">
-  Kembali ke Beranda
-</a>
+            Kembali ke Beranda
+        </a>
 
 </div>
 comming soon!
